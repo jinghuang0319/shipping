@@ -1,0 +1,18 @@
+.font{
+    color:black;
+    font-size:16px;
+    font-family:serif;  
+   
+}
+
+.button{
+    color:black;
+    font-size:16px;
+    font-family:serif;  
+    background-color:lightblue;
+    margin-left: 100px;
+    }
+
+.field{
+    width: 150px;
+}

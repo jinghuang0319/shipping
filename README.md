@@ -10,7 +10,10 @@ https://github.com/jinghuang0319/shipping.git
 
 
 ## 2.Database:
-there are two sql files in file.sql folder, one is boxs.sql,and the other one is countrys.sql .
+there are two sql files in file.sql folder, one is boxs.sql,and the other one is countrys.sql 
+
+![](https://github.com/jinghuang0319/shipping/blob/master/image/sql.png)
+
  Configuration of Database, In BaseDao class,
 
 ![](https://github.com/jinghuang0319/shipping/blob/master/image/d72e1a0c82565b3c89a0793e8f7c089.png)

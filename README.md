@@ -3,7 +3,7 @@ this is read me
 ## 1.Back-end
 In back-end, I used java and MVC(Module, view, control) to contribute back-end,The name of project is item,there are four layer involved, bean, dao, service,servlet.
 
-
+![](https://github.com/iloveyii/sdg-project/blob/master/backend/project1/image/1.png?raw=true)
 
 ## 2.Database:
 Configuration of Database, In BaseDao class,

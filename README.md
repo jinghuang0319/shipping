@@ -15,7 +15,7 @@ In back-end, I used java and MVC(Module, view, control) to contribute back-end,T
 ## 2.Database:
 there are two sql file in file.sql folder, one is boxs.sql,and the other one is countrys.sql
 Configuration of Database, In BaseDao class,
-![](https://github.com/jinghuang0319/shipping/blob/master/image/591a9fa309f5dfcd22837cc69f5d4eb.png)
+![](https://github.com/jinghuang0319/shipping/blob/master/image/d72e1a0c82565b3c89a0793e8f7c089.png)
 In this class, you need connect in your local database.
 ![](https://github.com/jinghuang0319/shipping/blob/master/image/880e4860ba89400e8be737c5a503483.png)
 

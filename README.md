@@ -24,13 +24,15 @@ In back-end, I used java and MVC(Module, view, control) to contribute back-end,T
 	
    ![](https://github.com/jinghuang0319/shipping/blob/master/image/test1.png)
    
-    on the class,right click,choose 'Run As',then choose 'JUnit Test'
+    on the class,right click,choose 'Run As',then choose 'JUnit Test'.
 	
-	![](https://github.com/jinghuang0319/shipping/blob/master/image/test2.png)
+   ![](https://github.com/jinghuang0319/shipping/blob/master/image/test2.png)
 	
-	there is result will show on the left
+	
+	there is result will show on the left.
 	
 	![](https://github.com/jinghuang0319/shipping/blob/master/image/test3.png)
+	   
 ## 2.Database:
 there are two sql file in file.sql folder, one is boxs.sql,and the other one is countrys.sql
 Configuration of Database, In BaseDao class,

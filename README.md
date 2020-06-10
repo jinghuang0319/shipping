@@ -22,5 +22,6 @@ In this class, you need connect in your local database.
 ## 3.Configuration of service,
 In my project, i have run two service in local computer, one is for react ,and other is for back-end, use different port number is necessary, i have configure the port number in the back-end side
 
+![](https://github.com/jinghuang0319/shipping/blob/master/image/9662b7e2c4ac57d897ac906d1440e39.png)
 
 ## 4.front-end

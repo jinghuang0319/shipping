@@ -18,6 +18,14 @@ In back-end, I used java and MVC(Module, view, control) to contribute back-end,T
    * configure service within project, like tomcat.
    * run the service
    
+### Junit test
+    In backend, i uesd Junit test to test function.there are two test class under the test folder,one is CountryDaoImplTest
+	and the other one is OrderBoxDaoImplTest.
+   ![](https://github.com/jinghuang0319/shipping/blob/master/image/test1.png)
+    on the class,right click,choose 'Run As',then choose 'JUnit Test'
+	![](https://github.com/jinghuang0319/shipping/blob/master/image/test2.png)
+	there is result will show on the left
+	![](https://github.com/jinghuang0319/shipping/blob/master/image/test3.png)
 ## 2.Database:
 there are two sql file in file.sql folder, one is boxs.sql,and the other one is countrys.sql
 Configuration of Database, In BaseDao class,
@@ -44,3 +52,12 @@ In my project, i have run two service in local computer, one is for react ,and o
    * Browse to the url `http://localhost:8080/#/listboxes`
    
    ![](https://github.com/jinghuang0319/shipping/blob/master/image/a607c9c0db17d888c52020ce53d5fee.png)
+
+
+ ### Mocha test
+   In the front-end, i used Mocha test to test function, the test js under the test folder. and there are three test function 
+   have be code in the firstTest.js
+   ![](https://github.com/jinghuang0319/shipping/blob/master/image/test4.png)
+   Run the application inside, frontend/ run the command `npm run test`, the test result will be show on terminal 
+   ![](https://github.com/jinghuang0319/shipping/blob/master/image/test5.png)
+   
